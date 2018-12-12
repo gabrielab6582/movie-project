@@ -5,9 +5,26 @@ h1{
 h3{
     font-family: "Ovo";
 }
-p{
-    font-family: "Muli"
-    
-     
+
+ p{
+ 
+
+  width: 200px;
+    margin-left: 300px;
+    margin-: 10px;
+ border: 25px solid pink;
+  padding: 20px;
+  font-family: "Muli";
+ float: left
+
 }
+
+.prof{
+    width: 200px;
+    margin-left: 50px;
+ border: 10px solid pink;
+  
+  
     
+    
+}
