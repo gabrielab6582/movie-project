@@ -7,15 +7,12 @@ h3{
 }
 
  p{
- 
-
-  width: 200px;
-    margin-left: 300px;
-    margin-: 10px;
+  /*width: 350px;*/
+margin-left: 300px;
  border: 25px solid pink;
   padding: 20px;
   font-family: "Muli";
- float: left
+ float: left;
 
 }
 
@@ -23,8 +20,6 @@ h3{
     width: 200px;
     margin-left: 50px;
  border: 10px solid pink;
-  
-  
-    
-    
+ 
+ 
 }
