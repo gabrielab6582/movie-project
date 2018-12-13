@@ -1,38 +1,41 @@
-h1{
-    font-family:"Ovo";
-    text-align: center;
+body{
+    background: MistyRose;
 }
-h3{
+h1 {
+    font-family: "Ovo";
+    text-align: center;
+    color: maroon;
+    font-size:50px;
+    ;
+}
+
+h3 {
     font-family: "Ovo";
 }
 
- p{
- 
-
-  width: 200px;
-    margin-left: 00px;
- border: 25px solid pink;
-  padding: 20px;
-  font-family: "Muli";
- float: left;
-
+p {
+    width: 200px;
+    margin-left: 400px;
+    border: 25px solid pink;
+    padding: 20px;
+    font-family: "Muli";
+    float: left;
 }
 
-.prof{
-   margin-left: 11px;
- position:relative ;
- left:300px;
-  
-    
-    
+.prof {
+    margin-left: 11px;
+    position: relative;
+    left: 100px;
 }
-#hero{
-    padding: 0px 150px;
- text-align:left
- ;
+
+#hero {
+    /*padding: 10px 200px;*/
+    font-size:20px;
+    text-align: auto;
+    width:800px;
     font-weight: bolder;
-  border: 10px  ;
-    margin-top: 10px;
-    margin-right: 300px;
-    
+    border: 10px solid;
+    /*margin-top: 10px;*/
+    /*margin-right: 300px;*/
+
 }
