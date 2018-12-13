@@ -7,8 +7,10 @@ h3{
 }
 
  p{
-  /*width: 350px;*/
-margin-left: 300px;
+ 
+
+  width: 200px;
+    margin-left: 00px;
  border: 25px solid pink;
   padding: 20px;
   font-family: "Muli";
@@ -17,9 +19,20 @@ margin-left: 300px;
 }
 
 .prof{
-    width: 200px;
-    margin-left: 50px;
- border: 10px solid pink;
- 
- 
+   margin-left: 11px;
+ position:relative ;
+ left:300px;
+  
+    
+    
+}
+#hero{
+    padding: 0px 150px;
+ text-align:left
+ ;
+    font-weight: bolder;
+  border: 10px  ;
+    margin-top: 10px;
+    margin-right: 300px;
+    
 }
