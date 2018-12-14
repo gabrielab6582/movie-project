@@ -1,41 +1,59 @@
 body{
-    background: MistyRose;
+    background: AliceBlue;
+    max-width: 800px;
+    /*text-align: center;*/
+    margin-left: 200px;
 }
 h1 {
     font-family: "Ovo";
     text-align: center;
     color: maroon;
-    font-size:50px;
-    ;
+    font-size:60px;
+    
 }
 
 h3 {
     font-family: "Ovo";
+font-size: 30px;
+text-align: center;
+
 }
 
 p {
-    width: 200px;
-    margin-left: 400px;
-    border: 25px solid pink;
+    width: 300px;
+    height: 300px
+    margin-left: 200px;
+    border: 10px dotted pink;
+    font-size:20px;
     padding: 20px;
     font-family: "Muli";
     float: left;
 }
 
 .prof {
-    margin-left: 11px;
+    margin-left: 10px;
     position: relative;
-    left: 100px;
+    left: 50px;
 }
 
 #hero {
     /*padding: 10px 200px;*/
     font-size:20px;
-    text-align: auto;
-    width:800px;
+    width:400px;
+    /*text-align: auto;*/
     font-weight: bolder;
-    border: 10px solid;
+    border: 0px solid;
     /*margin-top: 10px;*/
     /*margin-right: 300px;*/
 
+}
+
+h2{
+position:relative;
+   top:50px;
+   left:200px;
+}
+.hero1{
+    float:left;
+   /*clear:right;*/
 }
