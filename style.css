@@ -73,3 +73,19 @@ form{
     font-size:30px;
     
 }
+
+.blue-button {
+    border-radius: 28px;
+    font-family: Arial;
+    color: white;
+    font-size: 20px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 20px;
+    height: 50px;
+}
+
+.blue-button:hover {
+    background: blue;
+}
