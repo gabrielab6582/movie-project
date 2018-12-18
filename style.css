@@ -59,3 +59,17 @@ position:relative;
    /*clear:right;*/
 }
 
+h4 {
+    font-family: "Ovo";
+    text-align: center;
+    color: palevioletred;
+    font-size:40px;
+    
+}
+form{
+    font-family: "Ovo";
+    text-align: center;
+    color: midnightblue;
+    font-size:30px;
+    
+}
