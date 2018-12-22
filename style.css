@@ -1,8 +1,7 @@
 body{
     background: AliceBlue;
-    max-width: 800px;
-    /*text-align: center;*/
-    /*margin auto*/
+    max-width: 700px;
+   
     margin-left: 550px;
 }
 h1 {
@@ -38,25 +37,23 @@ p {
 }
 
 #hero {
-    /*padding: 10px 200px;*/
+    
     font-size:20px;
     width:400px;
-    /*text-align: auto;*/
+  
     font-weight: bolder;
     border: 0px solid;
-    /*margin-top: 10px;*/
-    /*margin-right: 300px;*/
+    
 
 }
 
 h2{
 position:relative;
    top:50px;
-   left:200px;
+   left:100px;
 }
 .hero1{
     float:left;
-   /*clear:right;*/
 }
 
 h4 {
@@ -93,5 +90,5 @@ form{
 }
  video{
      position relative;
-     bottom:20px;
+     bottom:10px;
  }
