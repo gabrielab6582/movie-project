@@ -65,7 +65,9 @@ h4 {
     color: palevioletred;
     font-size:40px;
     
-}
+
+
+ 
 form{
     font-family: "Ovo";
     text-align: center;
@@ -89,3 +91,7 @@ form{
 .blue-button:hover {
     background: blue;
 }
+ video{
+     position relative;
+     bottom:20px;
+ }
